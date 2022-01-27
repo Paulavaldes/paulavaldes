@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Paula.
+- 🌱 I’m currently learning to program with Python.
+- 💞️ My goal is to become a web developer.
