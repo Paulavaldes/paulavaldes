@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paula.
-- 🌱 I’m currently learning to program with Python.
-- 💞️ My goal is to become a web developer.
+- :computer: I’m currently learning to program with Python.
+- :dart: My goal is to become a web developer.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
