@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paula.
-- :computer: I’m currently learning to program with Python.
+- :computer: I’m currently learning to program in Python.
 - :dart: My goal is to become a web developer.
 
 <h3 align="left">Languages and Tools:</h3>
