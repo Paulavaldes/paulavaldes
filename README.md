@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Paula.
 - :computer: I’m currently learning about programming and development.
 - :dart: My goal is to become a web developer.
+- ♀️ Woman in tech.
+- ♾️Always learning.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
